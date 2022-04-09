@@ -1,2 +1,2 @@
 # instagram-clone
-Bu bir patika.dev çalışmasıdır.
+Bu bir patika.dev çalışmasıdır...
